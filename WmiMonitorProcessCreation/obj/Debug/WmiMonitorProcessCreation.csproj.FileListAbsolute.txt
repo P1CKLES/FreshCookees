@@ -1,7 +1,0 @@
-C:\Users\tester\documents\visual studio 2017\Projects\WmiMonitorProcessCreation\WmiMonitorProcessCreation\bin\Debug\FreshCookees.exe.config
-C:\Users\tester\documents\visual studio 2017\Projects\WmiMonitorProcessCreation\WmiMonitorProcessCreation\bin\Debug\FreshCookees.exe
-C:\Users\tester\documents\visual studio 2017\Projects\WmiMonitorProcessCreation\WmiMonitorProcessCreation\bin\Debug\FreshCookees.pdb
-C:\Users\tester\documents\visual studio 2017\Projects\WmiMonitorProcessCreation\WmiMonitorProcessCreation\obj\Debug\WmiMonitorProcessCreation.csprojAssemblyReference.cache
-C:\Users\tester\documents\visual studio 2017\Projects\WmiMonitorProcessCreation\WmiMonitorProcessCreation\obj\Debug\WmiMonitorProcessCreation.csproj.CoreCompileInputs.cache
-C:\Users\tester\documents\visual studio 2017\Projects\WmiMonitorProcessCreation\WmiMonitorProcessCreation\obj\Debug\FreshCookees.exe
-C:\Users\tester\documents\visual studio 2017\Projects\WmiMonitorProcessCreation\WmiMonitorProcessCreation\obj\Debug\FreshCookees.pdb
